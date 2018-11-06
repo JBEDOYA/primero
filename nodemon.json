@@ -1,0 +1,11 @@
+{
+	"watch": [
+		"server.ts",
+		"api",
+		"app",
+		"config",
+		"rutas"
+	],
+	"ext": "ts",
+	"exec": "ts-node server"
+}
